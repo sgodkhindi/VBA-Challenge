@@ -31,10 +31,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 [Solved_Worksheet](Solution/Multiple_year_stock_data.xlsm)
 
-
-
 ## Solution Image 1
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](Images/moderate_solution.PNG)
 
 ## BONUS
 
