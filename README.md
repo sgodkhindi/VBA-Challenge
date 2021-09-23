@@ -27,12 +27,14 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ## Solution Worksheet
 
+* The solved worksheet can be accessed by clicking the following link:
+
 [Solved_Worksheet](Solution/Multiple_year_stock_data.xlsm)
 
-* The result should look as follows:
+
 
 ## Solution Image 1
-![moderate_solution](Images/moderate_solution.PNG)
+![moderate_solution](Images/moderate_solution.png)
 
 ## BONUS
 
