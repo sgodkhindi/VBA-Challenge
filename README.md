@@ -28,6 +28,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 ## Solution Worksheet
 
 [Solved_Worksheet](solution/Multiple_year_stock_data.xlsm)
+
 * The result should look as follows:
 
 ## Solution Image 1
