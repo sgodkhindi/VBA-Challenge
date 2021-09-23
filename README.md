@@ -32,7 +32,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * The result should look as follows:
 
 ## Solution Image 1
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](Images/moderate_solution.PNG)
 
 ## BONUS
 
