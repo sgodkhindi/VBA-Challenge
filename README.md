@@ -27,9 +27,12 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ## Solution Worksheet
 
-* The solved worksheet can be accessed by clicking the following link:
+* The solved worksheet and VBA program in .BAS and .VBS formats can be accessed by clicking the following links:
 
 [Solved_Worksheet](Solution/Multiple_year_stock_data.xlsm)
+[Solution in .BAS Format] (Solution/StockChange.BAS)
+[Solution in .VBS Format] (Solution/StockChange.VBS)
+
 
 ## Solution Image 1
 ![moderate_solution](Images/moderate_solution.PNG)
