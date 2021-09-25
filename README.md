@@ -33,10 +33,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 [Solved_Worksheet](Solution/Multiple_year_stock_data.xlsm)
 
 ## The Solution VBA program in .BAS Format
-[Solution in .BAS Format] (Solution/StockChange.BAS)
+[Solution in .BAS Format](Solution/StockChange.BAS)
 
 ## The Solution VBA program in .VBS Format
-[Solution in .VBS Format] (Solution/StockChange.VBS)
+[Solution in .VBS Format](Solution/StockChange.VBS)
 
 
 ## Solution Image 1
