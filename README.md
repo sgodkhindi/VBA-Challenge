@@ -38,6 +38,16 @@ You are well on your way to becoming a programmer and Excel master! In this home
 ## The Solution VBA program in .VBS Format
 [Solution in .VBS Format](Solution/StockChange.vbs)
 
+## Solution Screen Shots
+# Solution - 2014
+![Solution - 2014 Screen Shot](Images/Solved_2014_Worksheet.PNG)
+
+# Solution - 2015
+![Solution - 2015 Screen Shot](Images/Solved_2015_Worksheet.PNG)
+
+# Solution - 2016
+![Solution - 2016 Screen Shot](Images/Solved_2016_Worksheet.PNG)
+
 
 ## Solution Image 1
 ![moderate_solution](Images/moderate_solution.PNG)
