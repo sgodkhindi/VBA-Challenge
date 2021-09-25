@@ -25,12 +25,17 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-## Solution Worksheet
+## Solution Worksheet and Programs
 
 * The solved worksheet and VBA program in .BAS and .VBS formats can be accessed by clicking the following links:
 
+## Solution Worksheet
 [Solved_Worksheet](Solution/Multiple_year_stock_data.xlsm)
+
+## The Solution VBA program in .BAS Format
 [Solution in .BAS Format] (Solution/StockChange.BAS)
+
+## The Solution VBA program in .VBS Format
 [Solution in .VBS Format] (Solution/StockChange.VBS)
 
 
